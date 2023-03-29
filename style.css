@@ -1,0 +1,77 @@
+.logo1:hover{
+    transform: skewX(-10deg);
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+aside{
+    height: 680px;
+}
+
+.Titulo1{
+    display: block;
+}
+
+.texto1{
+    transition: all 0.5s;
+}
+@media screen and (min-width:0px){
+    .texto1{
+      width: 70%;
+    }
+  }
+
+@media screen and (min-width:535px){
+    .texto1{
+      width: 90%;
+    }
+  }
+
+  @media screen and (min-width:600px){
+    .texto1{
+      width: 110%;
+    }
+  }
+
+  
+  @media screen and (min-width:700px){
+    .texto1{
+      width: 140%;
+    }
+  }
+
+  @media screen and (min-width:800px){
+    .texto1{
+      width: 170%;
+    }
+  }
+  
+  @media screen and (min-width:900px){
+    .texto1{
+      width: 200%;
+    }
+  }
+
+  @media screen and (min-width:1000px){
+    .texto1{
+      width: 220%;
+    }
+  }
+
+  @media screen and (min-width:1250px){
+    .texto1{
+      width: 290%;
+    }
+  }
+
+  @media screen and (min-width:1300px){
+    .texto1{
+      width: 310%;
+    }
+  }
+
+  @media screen and (min-width:1500px){
+    .texto1{
+      width: 370%;
+    }
+  }

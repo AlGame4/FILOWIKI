@@ -1,7 +1,7 @@
 .logo1:hover{
-    transform: skewX(-10deg);
+    transform: skewX(-5deg);
     margin-left: 100px;
-    cursor: help;
+    cursor: pointer;
 }
 
 h1{
